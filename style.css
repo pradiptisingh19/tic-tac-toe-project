@@ -33,3 +33,9 @@ body {
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
 
 }
+#reset{
+    padding: 1rem;
+    font-size: 1.25rem;
+    border-radius: 2rem;
+
+}
