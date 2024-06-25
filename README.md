@@ -1,0 +1,1 @@
+# This tic tac toe game is a basic minor project to understand and apply the concepts of javascript. 
