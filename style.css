@@ -31,7 +31,9 @@ body {
     border-radius: 2rem;
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
-
+    background-color: white;
+    color: black;
+    font-size: 1.5rem;
 }
 #reset{
     padding: 1rem;
